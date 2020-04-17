@@ -1,0 +1,1 @@
+This is a tutorial app for learning how to use Django and React together.
